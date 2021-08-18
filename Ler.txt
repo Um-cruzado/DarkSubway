@@ -1,0 +1,1 @@
+Com exceção do material dispenser preto, todos os materiais na pasta FBX deve ser ignorado.
